@@ -118,7 +118,6 @@ terminado==0.12.1
 testpath==0.5.0
 tornado==6.1
 traitlets==5.1.0
-unattended-upgrades==0.1
 urllib3==1.25.8
 usb-creator==0.3.7
 virtualenv==20.0.17
