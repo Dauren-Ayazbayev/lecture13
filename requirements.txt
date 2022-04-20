@@ -118,7 +118,6 @@ terminado==0.12.1
 testpath==0.5.0
 tornado==6.1
 traitlets==5.1.0
-ubuntu-advantage-tools==20.3
 ubuntu-drivers-common==0.0.0
 ufw==0.36
 unattended-upgrades==0.1
